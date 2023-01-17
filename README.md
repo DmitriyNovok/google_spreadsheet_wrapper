@@ -1,1 +1,1 @@
-# google_spreadsheet_wrapper
+# Google Spreadsheet wrapper

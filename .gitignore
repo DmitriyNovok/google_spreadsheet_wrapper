@@ -1,0 +1,21 @@
+composer
+composer.phar
+composer.lock
+node_modules/
+vendor/
+tools/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Editor directories and files
+.DS_Store
+.idea
+.idea/
+.vscode
+.vscode/
+.history
+.history/
+*.suo
+*.ntvs*
+*.njsproj
